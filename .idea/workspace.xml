@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="46efd10e-555a-4331-9ea7-ad36167887de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Greedy/거스름돈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_greedy/3_숫자카드게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_greedy/4_1이될때까지.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Greedy/거스름돈.py" beforeDir="false" afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_greedy/1_거스름돈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Greedy/큰수의법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_greedy/2_큰수의법칙.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +34,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kevinliam/Desktop/Development/Algorithm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kevinliam/Desktop/Development/Algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="1이될때까지" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Greedy" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Greedy/1이될때까지.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,6 +81,7 @@
       <workItem from="1675162826598" duration="31000" />
       <workItem from="1675162866417" duration="46000" />
       <workItem from="1675162922197" duration="12000" />
+      <workItem from="1675162942182" duration="4635000" />
     </task>
     <servers />
   </component>
@@ -62,5 +98,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm$with.coverage" NAME="1이될때까지 Coverage Results" MODIFIED="1675167460449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Greedy" />
   </component>
 </project>
