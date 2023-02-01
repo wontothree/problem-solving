@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46efd10e-555a-4331-9ea7-ad36167887de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_greedy/3_숫자카드게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_greedy/4_1이될때까지.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch4_implement/상하좌우.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Greedy/거스름돈.py" beforeDir="false" afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_greedy/1_거스름돈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Greedy/큰수의법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_greedy/2_큰수의법칙.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/kevinliam/Desktop/Development/Algorithm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kevinliam/Desktop/Development/Algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="1이될때까지" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Algorithm" />
@@ -81,7 +78,7 @@
       <workItem from="1675162826598" duration="31000" />
       <workItem from="1675162866417" duration="46000" />
       <workItem from="1675162922197" duration="12000" />
-      <workItem from="1675162942182" duration="4635000" />
+      <workItem from="1675162942182" duration="7676000" />
     </task>
     <servers />
   </component>
