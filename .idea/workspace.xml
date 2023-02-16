@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46efd10e-555a-4331-9ea7-ad36167887de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/1_개수세기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/2_X보다작은수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/3_최소,최대.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/4_최댓값.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/5_과제안내신분...?.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/6_나머지.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/7_평균.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/8_OX퀴즈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/9_평균은넘겠지.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/1_셀프넘버.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/2_정수N개의합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/3_한수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/6_문자열/1_아스키코드.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/2023_Feb_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/2023_Feb_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_Greedy/3_숫자카드게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_Greedy/3_숫자카드게임.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +57,7 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="2023_Feb_3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="1_아스키코드" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,12 +65,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.10" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/6_문자열" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/2023_Feb_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/6_문자열/1_아스키코드.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +95,10 @@
       <workItem from="1675236163594" duration="10970000" />
       <workItem from="1675317953229" duration="4003000" />
       <workItem from="1675331533648" duration="8786000" />
-      <workItem from="1675409726262" duration="11204000" />
+      <workItem from="1675409726262" duration="12497000" />
+      <workItem from="1676263756185" duration="14000" />
+      <workItem from="1676264662525" duration="99000" />
+      <workItem from="1676264774622" duration="12611000" />
     </task>
     <servers />
   </component>
@@ -103,6 +119,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$6_6_.coverage" NAME="2023_Feb_3 Coverage Results" MODIFIED="1675422494236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Study" />
     <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="6-5_파이썬의장점을살릴퀵정렬 Coverage Results" MODIFIED="1675341744018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch6_Sort" />
+    <SUITE FILE_PATH="coverage/Algorithm$2023_Feb_3.coverage" NAME="1_아스키코드 Coverage Results" MODIFIED="1676276447819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/6_문자열" />
     <SUITE FILE_PATH="coverage/Algorithm$with.coverage" NAME="1이될때까지 Coverage Results" MODIFIED="1675167460449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Greedy" />
   </component>
 </project>

@@ -61,5 +61,5 @@ print(result)
 
 
 """
-교훈: enumerate 함수, min 함수, max 함수
+교훈: enumerate 5_함수, min 5_함수, max 5_함수
 """
