@@ -3,28 +3,55 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="46efd10e-555a-4331-9ea7-ad36167887de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/1_개수세기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/2_X보다작은수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/3_최소,최대.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/4_최댓값.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/5_과제안내신분...?.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/6_나머지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/7_평균.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/8_OX퀴즈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/9_평균은넘겠지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/1_셀프넘버.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/2_정수N개의합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/3_한수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/6_문자열/1_아스키코드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Algorithm2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AdivideB.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AdivideB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AminusB.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AminusB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AmultiplyB.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AmultiplyB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AplusB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AplusB.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/FourArithmeticOperation.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/FourArithmeticOperation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/HelloWorld.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/HelloWorld.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/Multiply.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/Remain.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/Remain.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/joonas.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/joonas.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_Greedy/3_숫자카드게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch3_Greedy/3_숫자카드게임.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/1_개수세기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/2_X보다작은수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/3_최소,최대.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/4_최댓값.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/5_과제안내신분...?.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/6_나머지.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/7_평균.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/8_OX퀴즈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/9_평균은넘겠지.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/1_셀프넘버.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/2_정수N개의합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/3_한수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/6_문자열/1_아스키코드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/2023_Feb_3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,29 +75,45 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kevinliam/Desktop/Development/Algorithm&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kevinliam/Desktop/Kevin’s MacBook Air/Development/Algorithm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="1_아스키코드" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.n">
+    <configuration name="n" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="Multiply.c" CONFIG_NAME="n">
+      <option name="sourceFile" value="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/Multiply.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3_알파벳찾기" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.10" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/6_문자열" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/6_문자열/1_아스키코드.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/6_문자열/3_알파벳찾기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,6 +122,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="C/C++ File.n" />
+      <item itemvalue="Python.3_알파벳찾기" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -99,6 +146,14 @@
       <workItem from="1676263756185" duration="14000" />
       <workItem from="1676264662525" duration="99000" />
       <workItem from="1676264774622" duration="12611000" />
+      <workItem from="1676533011436" duration="3098000" />
+      <workItem from="1678154496426" duration="10000" />
+      <workItem from="1678326043423" duration="641000" />
+      <workItem from="1679642998721" duration="9000" />
+      <workItem from="1680762056948" duration="2000" />
+      <workItem from="1688535276705" duration="373000" />
+      <workItem from="1688535652762" duration="18453000" />
+      <workItem from="1689137656380" duration="13166000" />
     </task>
     <servers />
   </component>
@@ -115,11 +170,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$6_6_.coverage" NAME="2023_Feb_3 Coverage Results" MODIFIED="1675422494236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Study" />
-    <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="6-5_파이썬의장점을살릴퀵정렬 Coverage Results" MODIFIED="1675341744018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Ch6_Sort" />
-    <SUITE FILE_PATH="coverage/Algorithm$2023_Feb_3.coverage" NAME="1_아스키코드 Coverage Results" MODIFIED="1676276447819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/6_문자열" />
-    <SUITE FILE_PATH="coverage/Algorithm$with.coverage" NAME="1이될때까지 Coverage Results" MODIFIED="1675167460449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다with파이썬/Greedy" />
   </component>
 </project>
