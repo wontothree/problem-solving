@@ -10,40 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46efd10e-555a-4331-9ea7-ad36167887de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Algorithm2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AdivideB.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AdivideB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AminusB.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AminusB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AmultiplyB.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AmultiplyB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AplusB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/AplusB.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/FourArithmeticOperation.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/FourArithmeticOperation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/HelloWorld.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/HelloWorld.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/Multiply.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/Remain.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/Remain.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/joonas.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/joonas.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/1_개수세기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/2_X보다작은수.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/3_최소,최대.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/4_최댓값.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/5_과제안내신분...?.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/6_나머지.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/7_평균.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/8_OX퀴즈.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/4_1차원배열/9_평균은넘겠지.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/1_셀프넘버.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/2_정수N개의합.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/5_함수/3_한수.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/단계별로풀어보기/6_문자열/1_아스키코드.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/2023_Feb_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/두근두근자료구조/ch13_sort/program13_01.c" beforeDir="false" afterPath="$PROJECT_DIR$/두근두근자료구조/ch13_sort/program13_01.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/두근두근자료구조/ch13_sort/program13_02.c" beforeDir="false" afterPath="$PROJECT_DIR$/두근두근자료구조/ch13_sort/program13_02.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/두근두근자료구조/ch13_sort/program13_03.c" beforeDir="false" afterPath="$PROJECT_DIR$/두근두근자료구조/ch13_sort/program13_03.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +36,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2L5ZIY4PdifVubVBTM11UJPCkdq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -73,18 +46,22 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;C/C++ File.n.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kevinliam/Desktop/Kevin’s MacBook Air/Development/Algorithm&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Development/ps/두근두근자료구조/ch13_sort/program13_03.c&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -94,14 +71,15 @@
     </key>
   </component>
   <component name="RunManager" selected="C/C++ File.n">
-    <configuration name="n" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="Multiply.c" CONFIG_NAME="n">
-      <option name="sourceFile" value="$PROJECT_DIR$/Beakjoon/단계별로풀어보기/1_입출력과사칙연산/Multiply.c" />
+    <configuration name="n" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ps" TARGET_NAME="program13_03.c" CONFIG_NAME="n">
+      <option name="sourceFile" value="C:\Development\ps\두근두근자료구조\ch13_sort\program13_03.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="3_알파벳찾기" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Algorithm" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -154,6 +132,7 @@
       <workItem from="1688535276705" duration="373000" />
       <workItem from="1688535652762" duration="18453000" />
       <workItem from="1689137656380" duration="13166000" />
+      <workItem from="1702101430688" duration="8100000" />
     </task>
     <servers />
   </component>
