@@ -59,8 +59,11 @@ void main()
     int i;
 
     init_graph();
-    for (i = 0; i < 4; i++)
-        insert_vertex('A' + i);
+
+    insert_vertex('A');
+    insert_vertex('X');
+    insert_vertex('Y');
+    insert_vertex('Z');
 
     insert_edge2(0, 1, 1);
     insert_edge2(0, 3, 1);

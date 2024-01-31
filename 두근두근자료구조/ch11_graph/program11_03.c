@@ -10,6 +10,7 @@ void error(char str[]) {
     printf("%s\n", str);
     exit(1);
 }
+
 typedef char VtxData;
 int adj[MAX_VTXS][MAX_VTXS];
 int vsize;
@@ -48,11 +49,11 @@ void print_graph(char* msg)
     for (i = 0; i < vsize; i++) {
         printf("%c  ", vdata[i]);
         for (j = 0; j < vsize; j++)
-            printf(" %d", adj[i][j]);
+            printf(" %3d", adj[i][j]);
         printf("\n");
     }
 }
-void load_graph(char * filename)
+void load_graph(char *filename)
 {
     int i, j, val, n;
     char str[80];
