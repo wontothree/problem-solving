@@ -40,5 +40,5 @@ int main()
     int list[9] = {5, 3, 8, 4, 9, 1, 6, 2, 7};
     printArray(list, 9, "Original ");
     selection_sort(list, n);
-    printArray(list, n, "Selection");
+    printArray(list, n, "Selection ");
 }
