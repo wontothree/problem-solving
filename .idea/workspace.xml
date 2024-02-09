@@ -9,12 +9,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="46efd10e-555a-4331-9ea7-ad36167887de" name="Changes" comment="" />
+=======
     <list default="true" id="46efd10e-555a-4331-9ea7-ad36167887de" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/wontothree.github.io/11_graph/dfs.c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wontothree.github.io/11_graph/graph.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/두근두근자료구조/ch11_graph/program11_06.c" beforeDir="false" afterPath="$PROJECT_DIR$/두근두근자료구조/ch11_graph/program11_06.c" afterDir="false" />
     </list>
+>>>>>>> a4843c46328c5846f66e4e010100c32756d7602c
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +60,15 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/dssq7/Desktop/Sewon/Development/ps/wontothree.github.io/11_graph",
+=======
+<<<<<<< HEAD
+    "last_opened_file_path": "/Users/kevinliam/Desktop/Kevin’s MacBook Air/development/ps",
+=======
+    "last_opened_file_path": "C:/Users/dssq7/Desktop/Sewon/Development/ps/hi.c",
+>>>>>>> a4843c46328c5846f66e4e010100c32756d7602c
+>>>>>>> 8c21a98f4529e9e0e325ca3d5748188e4e070d8a
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -133,8 +145,16 @@
       <workItem from="1688535652762" duration="18453000" />
       <workItem from="1689137656380" duration="13166000" />
       <workItem from="1702101430688" duration="8100000" />
+<<<<<<< HEAD
       <workItem from="1707019526576" duration="4561000" />
       <workItem from="1707024157398" duration="14000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1706687897113" duration="123000" />
+=======
+      <workItem from="1707019526576" duration="131000" />
+>>>>>>> a4843c46328c5846f66e4e010100c32756d7602c
+>>>>>>> 8c21a98f4529e9e0e325ca3d5748188e4e070d8a
     </task>
     <servers />
   </component>
