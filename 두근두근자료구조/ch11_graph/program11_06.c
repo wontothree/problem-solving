@@ -62,14 +62,14 @@ void load_graph(char * filename)
     }
 }
 
-int visited[MAX_VTXS];
-void reset_visited()
+int visited[MAX_VTXS];  // 방문 여부를 기록하는 배열
+void reset_visited()    // 방문 여부를 기록하는 배열을 초기화하는 함수
 {
     int i;
     for(i = 0; i < vsize; i++)
         visited[i] = 0;
 }
-void DFS(int v)
+void DFS(int v) // 깊이 우선 탐색 함수
 {
     int w;
     visited[v] = 1;

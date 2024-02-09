@@ -10,8 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46efd10e-555a-4331-9ea7-ad36167887de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hi.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wontothree.github.io/11_graph/dfs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wontothree.github.io/11_graph/graph.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/두근두근자료구조/ch11_graph/program11_06.c" beforeDir="false" afterPath="$PROJECT_DIR$/두근두근자료구조/ch11_graph/program11_06.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/dssq7/Desktop/Sewon/Development/ps/hi.c",
+    "last_opened_file_path": "C:/Users/dssq7/Desktop/Sewon/Development/ps/wontothree.github.io/11_graph",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,8 +71,8 @@
     </key>
   </component>
   <component name="RunManager" selected="C/C++ File.n">
-    <configuration name="n" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ps" TARGET_NAME="hi.c" CONFIG_NAME="n">
-      <option name="sourceFile" value="C:\Users\dssq7\Desktop\Sewon\Development\ps\hi.c" />
+    <configuration name="n" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ps" TARGET_NAME="dfs.c" CONFIG_NAME="n">
+      <option name="sourceFile" value="C:\Users\dssq7\Desktop\Sewon\Development\ps\wontothree.github.io\11_graph\dfs.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -131,7 +133,8 @@
       <workItem from="1688535652762" duration="18453000" />
       <workItem from="1689137656380" duration="13166000" />
       <workItem from="1702101430688" duration="8100000" />
-      <workItem from="1707019526576" duration="131000" />
+      <workItem from="1707019526576" duration="4561000" />
+      <workItem from="1707024157398" duration="14000" />
     </task>
     <servers />
   </component>
