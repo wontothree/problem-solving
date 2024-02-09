@@ -9,7 +9,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="46efd10e-555a-4331-9ea7-ad36167887de" name="Changes" comment="" />
+=======
+    <list default="true" id="46efd10e-555a-4331-9ea7-ad36167887de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hi.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> a4843c46328c5846f66e4e010100c32756d7602c
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +58,11 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+<<<<<<< HEAD
     "last_opened_file_path": "/Users/kevinliam/Desktop/Kevin’s MacBook Air/development/ps",
+=======
+    "last_opened_file_path": "C:/Users/dssq7/Desktop/Sewon/Development/ps/hi.c",
+>>>>>>> a4843c46328c5846f66e4e010100c32756d7602c
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,14 +77,15 @@
     </key>
   </component>
   <component name="RunManager" selected="C/C++ File.n">
-    <configuration name="n" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ps" TARGET_NAME="program11_03.c" CONFIG_NAME="n">
-      <option name="sourceFile" value="$PROJECT_DIR$/두근두근자료구조/ch11_graph/program11_03.c" />
+    <configuration name="n" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ps" TARGET_NAME="hi.c" CONFIG_NAME="n">
+      <option name="sourceFile" value="C:\Users\dssq7\Desktop\Sewon\Development\ps\hi.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="3_알파벳찾기" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Algorithm" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -127,7 +139,11 @@
       <workItem from="1688535652762" duration="18453000" />
       <workItem from="1689137656380" duration="13166000" />
       <workItem from="1702101430688" duration="8100000" />
+<<<<<<< HEAD
       <workItem from="1706687897113" duration="123000" />
+=======
+      <workItem from="1707019526576" duration="131000" />
+>>>>>>> a4843c46328c5846f66e4e010100c32756d7602c
     </task>
     <servers />
   </component>
