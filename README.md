@@ -1,3 +1,5 @@
-Data Structure and Algorithm
+# Algorithm
 
-https://wontothree.github.io/ds
+[Data Structure with C](https://wontothree.github.io/datastructure)
+
+LeetCode with C++
