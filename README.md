@@ -3,4 +3,4 @@
 - Backjoon
 - LeetCode
 
-[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=AnthonyGarcia)](https://solved.ac/prepared7913)
+[![Solved.ac of Anthony Garica](http://mazassumnida.wtf/api/v2/generate_badge?boj=prepared7913)](https://solved.ac/prepared7913)
