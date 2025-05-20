@@ -1,6 +1,6 @@
 # Development Log
 
-*11382 Runt Jeongmin*
+*11382*
 
 암기
 
@@ -10,7 +10,7 @@ https://qhrhksgkazz.tistory.com/230
 
 % -> %%, \ -> \\, " -> \"
 
-*10952 A + B - 5*
+*10952*
 
 Before
 
@@ -68,13 +68,13 @@ int main(void) {
 }
 ```
 
-*3052 Remain*
+*3052*
 
 배열에서 서로 다른 수의 개수
 
 [1, 2, 3, 4, 5, 5, 5, 6, 7, 8]
 
-*11720 Sum of Numbers*
+*11720*
 
 to transform type char '5' to int '5'
 
@@ -83,7 +83,7 @@ char ch = '5';
 int num = ch - '0';
 ```
 
-*10809 Finding alphabet*
+*10809*
 
 while 문에서 break으로 빠져나오지 않고 조건을 불만족하여 빠져나온 경우에만 조건 걸기. flag를 이용한다.
 
@@ -100,4 +100,12 @@ while (word[j] != '\0') {
 if (word[j] == '\0') {
     j = -1;
 }
+```
+
+*2908* 문자열 to int
+
+```c
+#include <stdlib.h>
+
+$[variable] = atoi($[variable])
 ```
