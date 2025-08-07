@@ -14,6 +14,6 @@ gcc -o 04-2751-sorting-numbers-2 ./04-2751-sorting-numbers-2.c
 
 # To-do
 
-- [] LeetCode
-- [] Codeforces
-- [] Samsung SW Expert Academy
+- [ ] LeetCode
+- [ ] Codeforces
+- [ ] Samsung SW Expert Academy
